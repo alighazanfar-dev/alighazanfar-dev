@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="assets/banner.png"
-    alt="Ali Ghazanfar – Full-Stack Engineer & Automation Specialist"
-    width="100%"
-  />
-</p>
-
 <h1 align="center">Ali Ghazanfar</h1>
 <p align="center"><em>Full-Stack Engineer & Automation Specialist</em></p>
 <p align="center">I architect resilient web-scrapers, CI/CD pipelines, and cloud-native applications that scale.</p>
@@ -32,7 +24,7 @@ I build end-to-end web applications and design robust scraping & automation solu
 | [AwesomeScraper](https://github.com/alighazanfar-dev/awesome-scraper)       | Modular, headless-browser scraping toolkit with bot-evasion plugins | Node.js · Puppeteer · Docker      |
 | [AutoDeployBot](https://github.com/alighazanfar-dev/auto-deploy-bot)        | End-to-end CI/CD automation for microservices & serverless         | GitHub Actions · Kubernetes       |
 | [DataPipelineJS](https://github.com/alighazanfar-dev/datapipelinejs)        | Real-time ETL framework with retry logic & monitoring              | TypeScript · AWS Lambda · SQS     |
-| [PortfolioSite](https://github.com/alighazanfar-dev/portfolio)            | Personal site showcasing projects, blog, and contact form          | Next.js · Tailwind CSS · Vercel   |
+| [PortfolioSite](https://github.com/alighazanfar-dev/portfolio)              | Personal site showcasing projects, blog, and contact form          | Next.js · Tailwind CSS · Vercel   |
 
 ---
 
@@ -95,8 +87,8 @@ I build end-to-end web applications and design robust scraping & automation solu
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alighazanfar1/" target="_blank">🔗 LinkedIn</a> •
-  <a href="mailto:ali.ghazanfar@example.com">✉️ Email</a> •
-  <a href="https://alighazanfar.dev" target="_blank">🌐 Website</a>
+  <a href="mailto:ali.ghazanfar.899@hotmail.com">✉️ Email</a> •
+  <a href="https://paknews.pk" target="_blank">🌐 Website</a>
 </p>
 
 ---
